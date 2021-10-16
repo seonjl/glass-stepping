@@ -10,7 +10,7 @@
     "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
     "importHelpers": true,
-    "outDir": "tsc-out",
+    "outDir": "docs",
     "sourceMap": true,
     "inlineSources": true,
     "rootDir": "./"
